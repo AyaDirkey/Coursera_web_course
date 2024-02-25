@@ -41,10 +41,12 @@ h1 {
     margin-bottom: 3%;
     font-family: Arial, Helvetica, Tahoma ;
     color: black;
+    overflow: auto;
     
 }
 .section p {
     padding: 25px;
+   
 }
 @media (min-width: 992px){
     .col-lg-4 {
